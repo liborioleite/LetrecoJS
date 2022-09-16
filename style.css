@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Neue', cursive;
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.FirstRow input{
+    height: 40px;
+    width: 48px; 
+    border: 1px solid black;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 5%;
+    
+}
+
+.Title{
+    font-size: 30px;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 0 0 10px 0;
+    font-weight: 800;
+}
+
+input{
+    all:unset;
+    font-size:0;
+}
