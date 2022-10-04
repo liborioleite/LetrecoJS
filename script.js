@@ -61,7 +61,21 @@ for (let i; i < palavraDoDia.length; i++) {
    }
 }
 
-// E AGORA QUAL O PRÓXIMO PASSO COM RELAÇÃO AOS INPUTS QUE DEVERÃO FICAR VERMELHOS?
+if (document.getElementById("valorA").style.backgroundColor !== "#FFFF00" && document.getElementById("valorA").style.backgroundColor !== "008000") {
+   document.getElementById("valorA").style.backgroundColor = "#FF0000";
+}
+if (document.getElementById("valorB").style.backgroundColor !== "#FFFF00" && document.getElementById("valorB").style.backgroundColor !== "008000") {
+   document.getElementById("valorB").style.backgroundColor = "#FF0000";
+}
+if (document.getElementById("valorC").style.backgroundColor !== "#FFFF00" && document.getElementById("valorC").style.backgroundColor !== "008000") {
+   document.getElementById("valorC").style.backgroundColor = "#FF0000";
+}
+if (document.getElementById("valorD").style.backgroundColor !== "#FFFF00" && document.getElementById("valorD").style.backgroundColor !== "008000") {
+   document.getElementById("valorD").style.backgroundColor = "#FF0000";
+}
+if (document.getElementById("valorE").style.backgroundColor !== "#FFFF00" && document.getElementById("valorE").style.backgroundColor !== "008000") {
+   document.getElementById("valorE").style.backgroundColor = "#FF0000";
+} 
 
 
 
