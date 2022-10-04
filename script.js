@@ -9,19 +9,19 @@ function letreco() {
    let valor5 = document.getElementById("valorE").value;
    
    if (document.getElementById("valorA").style.backgroundColor !== "#FFFF00" && document.getElementById("valorA").style.backgroundColor !== "008000") {
-      document.getElementById("valorA").style.backgroundColor = "#FF0000";
+      document.getElementById("valorA").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
    if (document.getElementById("valorB").style.backgroundColor !== "#FFFF00" && document.getElementById("valorB").style.backgroundColor !== "008000") {
-      document.getElementById("valorB").style.backgroundColor = "#FF0000";
+      document.getElementById("valorB").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
    if (document.getElementById("valorC").style.backgroundColor !== "#FFFF00" && document.getElementById("valorC").style.backgroundColor !== "008000") {
-      document.getElementById("valorC").style.backgroundColor = "#FF0000";
+      document.getElementById("valorC").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
    if (document.getElementById("valorD").style.backgroundColor !== "#FFFF00" && document.getElementById("valorD").style.backgroundColor !== "008000") {
-      document.getElementById("valorD").style.backgroundColor = "#FF0000";
+      document.getElementById("valorD").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
    if (document.getElementById("valorE").style.backgroundColor !== "#FFFF00" && document.getElementById("valorE").style.backgroundColor !== "008000") {
-      document.getElementById("valorE").style.backgroundColor = "#FF0000";
+      document.getElementById("valorE").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
    
    for (let i = 0; i < palavraDoDia.length; i++) {
@@ -82,4 +82,3 @@ function letreco() {
 
 }
 
-let submit = document.getElementById("submeter"); 
