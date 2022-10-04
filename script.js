@@ -1,13 +1,14 @@
 let palavraDoDia = "carro";
-let valor1 = document.getElementById("valorA").value;
-let valor2 = document.getElementById("valorB").value;
-let valor3 = document.getElementById("valorC").value;
-let valor4 = document.getElementById("valorD").value;
-let valor5 = document.getElementById("valorE").value;
 
 
 function letreco() {
-
+   
+   let valor1 = document.getElementById("valorA").value;
+   let valor2 = document.getElementById("valorB").value;
+   let valor3 = document.getElementById("valorC").value;
+   let valor4 = document.getElementById("valorD").value;
+   let valor5 = document.getElementById("valorE").value;
+   
    if (valor1 === palavraDoDia[0]) {
       document.getElementById("valorA").style.backgroundColor = "#008000"; // inputs na cor verde 
    }
