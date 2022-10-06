@@ -15,6 +15,42 @@
    border-radius: 5%;
 }
 
+.SecondRow input {
+   width: 48px;
+   height: 40px;
+   border: 1px solid black;
+   text-align: center;
+   font-size: 40px;
+   border-radius: 5%;
+}
+
+.ThirdRow input {
+   width: 48px;
+   height: 40px;
+   border: 1px solid black;
+   text-align: center;
+   font-size: 40px;
+   border-radius: 5%;
+}
+
+.FourthRow input {
+   width: 48px;
+   height: 40px;
+   border: 1px solid black;
+   text-align: center;
+   font-size: 40px;
+   border-radius: 5%;
+}
+
+.FifthRow input {
+   width: 48px;
+   height: 40px;
+   border: 1px solid black;
+   text-align: center;
+   font-size: 40px;
+   border-radius: 5%;
+}
+
 .Container {
    display: flex;
    flex-direction: column;
@@ -33,4 +69,17 @@ input {
    color: transparent;
    padding: 0 0 10px 0;
    font-weight: 800;
+   position: relative;
+   right: 45px;
+}
+
+.botao {
+   border: none;
+   background-color: transparent;
+   color: black;
+   font-size: 25px;
+   font-weight: bold;
+   cursor: pointer;
+   position: relative;
+   left: 7.5px;
 }
