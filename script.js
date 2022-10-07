@@ -8,19 +8,19 @@ function letreco1() {
    let valor4 = document.getElementById("valorD").value;
    let valor5 = document.getElementById("valorE").value;
 
-   if (document.getElementById("valorA").style.backgroundColor !== "#FFFF00" && document.getElementById("valorA").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorA").style.backgroundColor !== "#FFFF00" && document.getElementById("valorA").style.backgroundColor !== "00FF00") {
       document.getElementById("valorA").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorB").style.backgroundColor !== "#FFFF00" && document.getElementById("valorB").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorB").style.backgroundColor !== "#FFFF00" && document.getElementById("valorB").style.backgroundColor !== "00FF00") {
       document.getElementById("valorB").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorC").style.backgroundColor !== "#FFFF00" && document.getElementById("valorC").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorC").style.backgroundColor !== "#FFFF00" && document.getElementById("valorC").style.backgroundColor !== "00FF00") {
       document.getElementById("valorC").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorD").style.backgroundColor !== "#FFFF00" && document.getElementById("valorD").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorD").style.backgroundColor !== "#FFFF00" && document.getElementById("valorD").style.backgroundColor !== "00FF00") {
       document.getElementById("valorD").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorE").style.backgroundColor !== "#FFFF00" && document.getElementById("valorE").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorE").style.backgroundColor !== "#FFFF00" && document.getElementById("valorE").style.backgroundColor !== "00FF00") {
       document.getElementById("valorE").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
 
@@ -65,19 +65,19 @@ function letreco1() {
    }
 
    if (valor1 === palavraDoDia[0]) {
-      document.getElementById("valorA").style.backgroundColor = "#008000"; // inputs na cor verde 
+      document.getElementById("valorA").style.backgroundColor = "#00FF00"; // inputs na cor verde 
    }
    if (valor2 === palavraDoDia[1]) {
-      document.getElementById("valorB").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorB").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor3 === palavraDoDia[2]) {
-      document.getElementById("valorC").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorC").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor4 === palavraDoDia[3]) {
-      document.getElementById("valorD").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorD").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor5 === palavraDoDia[4]) {
-      document.getElementById("valorE").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorE").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
 
 }
@@ -90,19 +90,19 @@ function letreco2() {
    let valor9 = document.getElementById("valorI").value;
    let valor10 = document.getElementById("valorJ").value;
 
-   if (document.getElementById("valorF").style.backgroundColor !== "#FFFF00" && document.getElementById("valorF").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorF").style.backgroundColor !== "#FFFF00" && document.getElementById("valorF").style.backgroundColor !== "00FF00") {
       document.getElementById("valorF").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorG").style.backgroundColor !== "#FFFF00" && document.getElementById("valorG").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorG").style.backgroundColor !== "#FFFF00" && document.getElementById("valorG").style.backgroundColor !== "00FF00") {
       document.getElementById("valorG").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorH").style.backgroundColor !== "#FFFF00" && document.getElementById("valorH").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorH").style.backgroundColor !== "#FFFF00" && document.getElementById("valorH").style.backgroundColor !== "00FF00") {
       document.getElementById("valorH").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorI").style.backgroundColor !== "#FFFF00" && document.getElementById("valorI").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorI").style.backgroundColor !== "#FFFF00" && document.getElementById("valorI").style.backgroundColor !== "00FF00") {
       document.getElementById("valorI").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorJ").style.backgroundColor !== "#FFFF00" && document.getElementById("valorJ").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorJ").style.backgroundColor !== "#FFFF00" && document.getElementById("valorJ").style.backgroundColor !== "00FF00") {
       document.getElementById("valorJ").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
 
@@ -143,19 +143,19 @@ function letreco2() {
    }
 
    if (valor6 === palavraDoDia[0]) {
-      document.getElementById("valorF").style.backgroundColor = "#008000"; // inputs na cor verde 
+      document.getElementById("valorF").style.backgroundColor = "#00FF00"; // inputs na cor verde 
    }
    if (valor7 === palavraDoDia[1]) {
-      document.getElementById("valorG").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorG").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor8 === palavraDoDia[2]) {
-      document.getElementById("valorH").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorH").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor9 === palavraDoDia[3]) {
-      document.getElementById("valorI").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorI").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor10 === palavraDoDia[4]) {
-      document.getElementById("valorJ").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorJ").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
 
 }
@@ -168,19 +168,19 @@ function letreco3() {
    let valor14 = document.getElementById("valorN").value;
    let valor15 = document.getElementById("valorO").value;
 
-   if (document.getElementById("valorK").style.backgroundColor !== "#FFFF00" && document.getElementById("valorK").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorK").style.backgroundColor !== "#FFFF00" && document.getElementById("valorK").style.backgroundColor !== "00FF00") {
       document.getElementById("valorK").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorL").style.backgroundColor !== "#FFFF00" && document.getElementById("valorL").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorL").style.backgroundColor !== "#FFFF00" && document.getElementById("valorL").style.backgroundColor !== "00FF00") {
       document.getElementById("valorL").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorM").style.backgroundColor !== "#FFFF00" && document.getElementById("valorM").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorM").style.backgroundColor !== "#FFFF00" && document.getElementById("valorM").style.backgroundColor !== "00FF00") {
       document.getElementById("valorM").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorN").style.backgroundColor !== "#FFFF00" && document.getElementById("valorN").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorN").style.backgroundColor !== "#FFFF00" && document.getElementById("valorN").style.backgroundColor !== "00FF00") {
       document.getElementById("valorN").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorO").style.backgroundColor !== "#FFFF00" && document.getElementById("valorO").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorO").style.backgroundColor !== "#FFFF00" && document.getElementById("valorO").style.backgroundColor !== "00FF00") {
       document.getElementById("valorO").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
 
@@ -221,19 +221,19 @@ function letreco3() {
    }
 
    if (valor11 === palavraDoDia[0]) {
-      document.getElementById("valorK").style.backgroundColor = "#008000"; // inputs na cor verde 
+      document.getElementById("valorK").style.backgroundColor = "#00FF00"; // inputs na cor verde 
    }
    if (valor12 === palavraDoDia[1]) {
-      document.getElementById("valorL").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorL").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor13 === palavraDoDia[2]) {
-      document.getElementById("valorM").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorM").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor14 === palavraDoDia[3]) {
-      document.getElementById("valorN").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorN").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor15 === palavraDoDia[4]) {
-      document.getElementById("valorO").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorO").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
 
 }
@@ -246,19 +246,19 @@ function letreco4() {
    let valor19 = document.getElementById("valorS").value;
    let valor20 = document.getElementById("valorT").value;
 
-   if (document.getElementById("valorP").style.backgroundColor !== "#FFFF00" && document.getElementById("valorP").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorP").style.backgroundColor !== "#FFFF00" && document.getElementById("valorP").style.backgroundColor !== "00FF00") {
       document.getElementById("valorP").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorQ").style.backgroundColor !== "#FFFF00" && document.getElementById("valorQ").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorQ").style.backgroundColor !== "#FFFF00" && document.getElementById("valorQ").style.backgroundColor !== "00FF00") {
       document.getElementById("valorQ").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorR").style.backgroundColor !== "#FFFF00" && document.getElementById("valorR").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorR").style.backgroundColor !== "#FFFF00" && document.getElementById("valorR").style.backgroundColor !== "00FF00") {
       document.getElementById("valorR").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorS").style.backgroundColor !== "#FFFF00" && document.getElementById("valorS").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorS").style.backgroundColor !== "#FFFF00" && document.getElementById("valorS").style.backgroundColor !== "00FF00") {
       document.getElementById("valorS").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorT").style.backgroundColor !== "#FFFF00" && document.getElementById("valorT").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorT").style.backgroundColor !== "#FFFF00" && document.getElementById("valorT").style.backgroundColor !== "00FF00") {
       document.getElementById("valorT").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
 
@@ -299,19 +299,19 @@ function letreco4() {
    }
 
    if (valor16 === palavraDoDia[0]) {
-      document.getElementById("valorP").style.backgroundColor = "#008000"; // inputs na cor verde 
+      document.getElementById("valorP").style.backgroundColor = "#00FF00"; // inputs na cor verde 
    }
    if (valor17 === palavraDoDia[1]) {
-      document.getElementById("valorQ").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorQ").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor18 === palavraDoDia[2]) {
-      document.getElementById("valorR").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorR").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor19 === palavraDoDia[3]) {
-      document.getElementById("valorS").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorS").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor20 === palavraDoDia[4]) {
-      document.getElementById("valorT").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorT").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
 
 }
@@ -323,23 +323,23 @@ function letreco5() {
    let valor23 = document.getElementById("valorW").value;
    let valor24 = document.getElementById("valorX").value;
    let valor25 = document.getElementById("valorY").value;
-   
-   if (document.getElementById("valorU").style.backgroundColor !== "#FFFF00" && document.getElementById("valorU").style.backgroundColor !== "008000") {
+
+   if (document.getElementById("valorU").style.backgroundColor !== "#FFFF00" && document.getElementById("valorU").style.backgroundColor !== "00FF00") {
       document.getElementById("valorU").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorV").style.backgroundColor !== "#FFFF00" && document.getElementById("valorV").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorV").style.backgroundColor !== "#FFFF00" && document.getElementById("valorV").style.backgroundColor !== "00FF00") {
       document.getElementById("valorV").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorW").style.backgroundColor !== "#FFFF00" && document.getElementById("valorW").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorW").style.backgroundColor !== "#FFFF00" && document.getElementById("valorW").style.backgroundColor !== "00FF00") {
       document.getElementById("valorW").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorX").style.backgroundColor !== "#FFFF00" && document.getElementById("valorX").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorX").style.backgroundColor !== "#FFFF00" && document.getElementById("valorX").style.backgroundColor !== "00FF00") {
       document.getElementById("valorX").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   if (document.getElementById("valorY").style.backgroundColor !== "#FFFF00" && document.getElementById("valorY").style.backgroundColor !== "008000") {
+   if (document.getElementById("valorY").style.backgroundColor !== "#FFFF00" && document.getElementById("valorY").style.backgroundColor !== "00FF00") {
       document.getElementById("valorY").style.backgroundColor = "#FF0000"; // inputs na cor vermelha
    }
-   
+
    for (let i = 0; i < palavraDoDia.length; i++) {
       if (valor21 === palavraDoDia[i]) {
          if (i !== 20) {
@@ -375,21 +375,21 @@ function letreco5() {
          }
       }
    }
-   
+
    if (valor21 === palavraDoDia[0]) {
-      document.getElementById("valorU").style.backgroundColor = "#008000"; // inputs na cor verde 
+      document.getElementById("valorU").style.backgroundColor = "#00FF00"; // inputs na cor verde 
    }
    if (valor22 === palavraDoDia[1]) {
-      document.getElementById("valorV").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorV").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor23 === palavraDoDia[2]) {
-      document.getElementById("valorW").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorW").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor24 === palavraDoDia[3]) {
-      document.getElementById("valorX").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorX").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
    if (valor25 === palavraDoDia[4]) {
-      document.getElementById("valorY").style.backgroundColor = "#008000"; // inputs na cor verde
+      document.getElementById("valorY").style.backgroundColor = "#00FF00"; // inputs na cor verde
    }
-   
+
 }
